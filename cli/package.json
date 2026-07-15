@@ -1,0 +1,20 @@
+{
+  "name": "timeless-calc-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for looking up Timeless Jewel seeds across all passive tree sockets",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "tj-lookup": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.2",
+    "tsx": "^4.7.0",
+    "typescript": "^5.4.0"
+  }
+}

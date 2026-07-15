@@ -2,6 +2,9 @@
 
 Interactive Path of Exile Timeless Jewel Calculator - calculate and visualize optimal passive tree jewel configurations.
 
+## This fork
+This fork was created to use command line to (bulk) check seeds for nodes.
+
 ## Features
 
 - **Passive Tree Visualization**: Interactive canvas rendering of the Path of Exile passive skill tree
